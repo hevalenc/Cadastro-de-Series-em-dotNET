@@ -1,0 +1,16 @@
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\ProjetoCadastro\bin\Debug\net5.0\ProjetoCadastro.exe
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\ProjetoCadastro\bin\Debug\net5.0\ProjetoCadastro.deps.json
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\ProjetoCadastro\bin\Debug\net5.0\ProjetoCadastro.runtimeconfig.json
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\ProjetoCadastro\bin\Debug\net5.0\ProjetoCadastro.runtimeconfig.dev.json
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\ProjetoCadastro\bin\Debug\net5.0\ProjetoCadastro.dll
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\ProjetoCadastro\bin\Debug\net5.0\ref\ProjetoCadastro.dll
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\ProjetoCadastro\bin\Debug\net5.0\ProjetoCadastro.pdb
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\ProjetoCadastro\obj\Debug\net5.0\ProjetoCadastro.csprojAssemblyReference.cache
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\ProjetoCadastro\obj\Debug\net5.0\ProjetoCadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\ProjetoCadastro\obj\Debug\net5.0\ProjetoCadastro.AssemblyInfoInputs.cache
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\ProjetoCadastro\obj\Debug\net5.0\ProjetoCadastro.AssemblyInfo.cs
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\ProjetoCadastro\obj\Debug\net5.0\ProjetoCadastro.csproj.CoreCompileInputs.cache
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\ProjetoCadastro\obj\Debug\net5.0\ProjetoCadastro.dll
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\ProjetoCadastro\obj\Debug\net5.0\ref\ProjetoCadastro.dll
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\ProjetoCadastro\obj\Debug\net5.0\ProjetoCadastro.pdb
+C:\Users\Haed e Heitor\Documents\EngSoft\Cursos\Digital Innovation One\C sharp\ProjetoCadastro\obj\Debug\net5.0\ProjetoCadastro.genruntimeconfig.cache
